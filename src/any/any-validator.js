@@ -17,5 +17,5 @@ function getAnyValidationError({ age }) {
 }
 
 module.exports = {
-  getBookmarkValidationError,
+  getAnyValidationError,
 }
